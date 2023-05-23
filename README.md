@@ -13,7 +13,7 @@ This is my first project made with HTML and CSS.
 ## Techs 
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-- [CSS](https://www.w3schools.com/css/)
+- [CSS3](https://www.w3schools.com/css/)
 
 ---
 
